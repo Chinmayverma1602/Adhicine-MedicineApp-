@@ -1,8 +1,8 @@
+import 'package:Adhicine/LoginPage.dart';
 import 'package:auth_buttons/auth_buttons.dart';
 import 'package:connectivity/connectivity.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:shiv/LoginPage.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 
 import 'Homepage.dart';

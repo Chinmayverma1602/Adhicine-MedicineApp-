@@ -1,6 +1,7 @@
+import 'package:Adhicine/LoginPage.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:shiv/LoginPage.dart';
+
 
 
 Future<void> main() async {

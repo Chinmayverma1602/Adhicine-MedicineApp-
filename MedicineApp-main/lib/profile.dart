@@ -1,6 +1,6 @@
+import 'package:Adhicine/LoginPage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:shiv/LoginPage.dart';
 import 'SettingsBar.dart';
 
 class ProfilePage extends StatefulWidget {

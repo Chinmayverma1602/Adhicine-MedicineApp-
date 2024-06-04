@@ -1,7 +1,7 @@
+import 'package:Adhicine/homecontent.dart';
+import 'package:Adhicine/profile.dart';
+import 'package:Adhicine/slide_scroll.dart';
 import 'package:flutter/material.dart';
-import 'package:shiv/homecontent.dart';
-import 'package:shiv/profile.dart';
-import 'package:shiv/slide_scroll.dart';
 import 'Addcontent.dart';
 import 'ReportContent.dart';
 
